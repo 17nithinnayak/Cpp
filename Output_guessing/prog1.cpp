@@ -3,7 +3,7 @@ using namespace std;
 
 class Test{
     static int i;
-    double j;
+    int j;
 };
 
 int main(){

@@ -1,0 +1,8 @@
+# Executables
+*.out
+myprogram
+a.out
+
+# Compiled Object files
+*.o
+*.obj
